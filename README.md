@@ -7,11 +7,12 @@ Project Overview：
 2. Bill Making.
 3. Registering New Patient.
 
-Technology Used: C++
-Your Role：Project planning, 
-and Implementation maker.
-Name of Part：Object 
-Oriented Design and Overall 
-Coding Part.
+Technology Used: C++.
+
+##Your Role：
+    Project planning, 
+    and Implementation maker.
+##Name of Part：
+    Object Oriented Design and Overall Coding Part.
 
 Live Review: https://thisissohel.github.io/Hospital-Management-System-on-C-./ 
