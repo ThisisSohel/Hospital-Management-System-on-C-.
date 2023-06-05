@@ -10,8 +10,7 @@ Project Overview：
 Technology Used: C++.
 
 ##Your Role：
-    Project planning, 
-    and Implementation maker.
+    Project planning and Implementation maker.
 ##Name of Part：
     Object Oriented Design and Overall Coding Part.
 
